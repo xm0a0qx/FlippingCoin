@@ -1,0 +1,1 @@
+# FlippingCoin CLI application
